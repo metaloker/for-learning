@@ -30,5 +30,10 @@ Math:
 ## Feature
 - [ ] #1
 - [x] \(Optional)Test #2
+- [ ] vv
+- [ ] vv
+- [ ] - [x] #739
+- [ ] https://github.com/octo-org/octo-repo/issues/740
+- [ ] Add delight to the experience when all tasks are complete :tada:
 
 ## Done feature
