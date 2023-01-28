@@ -27,13 +27,14 @@ Math:
   2. [math for beginners (yandex)](https://drive.google.com/file/d/1Gy4HiLDDkhJ0Ytd9dX4N4BKNnZ0Pjnxc/view?usp=sharing)
 
 
-## Feature
-- [ ] #1
-- [x] \(Optional)Test #2
-- [ ] vv
-- [ ] vv
-- [ ] - [x] #739
-- [ ] https://github.com/octo-org/octo-repo/issues/740
-- [ ] Add delight to the experience when all tasks are complete :tada:
+## Steps
+- [ ] Python
+- [ ] Math
+- [ ] KNN
+- [ ] Bacpropagation
+- [ ] Выбрать песни
+- [ ] Проанализировать их структуру через AI или нейронку
+- [ ] Написать самому по рекомендации от AI
+- [ ] Пусть AI сам напишет, раз такой умный
 
-## Done feature
+## Done
