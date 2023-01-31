@@ -30,9 +30,15 @@ Math:
 ## Steps
 - [ ] Python
   - [ ] [Python for beginners (Alishev)](https://www.youtube.com/playlist?list=PLAma_mKffTOSY12JZS6l8lxKCpooPVcrn)
+      - [ ] Theory
+      - [ ] Practice
   - [ ] Intermediate DataCamp
-    - [ ] [Introducing Python](https://app.datacamp.com/learn/courses/intro-to-python-for-data-science)
+    - [ ] [Introduction to Python](https://app.datacamp.com/learn/courses/intro-to-python-for-data-science)
+      - [ ] Theory
+      - [ ] Practice
     - [ ] [Intermediate Python](https://campus.datacamp.com/courses/intermediate-python/matplotlib?ex=1)
+      - [ ] Theory
+      - [ ] Practice
 - [ ] Math
 - [ ] KNN
 - [ ] Bacpropagation
