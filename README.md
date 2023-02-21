@@ -39,6 +39,9 @@ Math:
     - [ ] [Intermediate Python](https://campus.datacamp.com/courses/intermediate-python/matplotlib?ex=1)
       - [ ] Theory
       - [ ] Practice
+
+- [ ] FasbookAI
+
 - [ ] Math
 - [ ] KNN
 - [ ] Bacpropagation
