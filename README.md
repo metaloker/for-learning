@@ -29,9 +29,9 @@ Math:
 
 ## Steps
 - [ ] Python
-  - [ ] [Python for beginners (Alishev)](https://www.youtube.com/playlist?list=PLAma_mKffTOSY12JZS6l8lxKCpooPVcrn)
-      - [ ] Theory
-      - [ ] Practice
+  - [x] [Python for beginners (Alishev)](https://www.youtube.com/playlist?list=PLAma_mKffTOSY12JZS6l8lxKCpooPVcrn)
+      - [x] Theory
+      - [x] Practice
   - [ ] Intermediate DataCamp
     - [ ] [Introduction to Python](https://app.datacamp.com/learn/courses/intro-to-python-for-data-science)
       - [ ] Theory
