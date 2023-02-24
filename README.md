@@ -9,6 +9,7 @@ Python refers:
   2. [GitHub (Артем Груздев, Data_Preprocessing_in_Python)](https://github.com/Gewissta/Data_Preprocessing_in_Python/tree/main/code)
   3. [GitHub (Юрий Кашницкий, python_intro)](https://github.com/Yorko/python_intro/blob/9b8b6017ad3f44b99fb6d30c9e4f6c3ef2682ee1/index.ipynb)
   4. [alishev (youtube)](https://www.youtube.com/@alishevN/playlists)
+  5. [Valerio Velardo AI Music](https://www.youtube.com/@ValerioVelardoTheSoundofAI)
   
 GitHub Interactive:
   1. [First](https://learngitbranching.js.org/?locale=ru_RU)
